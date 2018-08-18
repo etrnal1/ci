@@ -4,7 +4,8 @@
 
 ### CI 目录 结构分成三部分
 
-   application 
+   application
+
    system
    user_guide
 
